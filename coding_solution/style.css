@@ -30,6 +30,7 @@ p {
     margin:auto;
 }
 
+/* Sök-knappen */
 .button {
     margin-left: auto;
     margin-right: auto;
@@ -62,6 +63,7 @@ p {
     color:#404040;
 }
 
+/* Sökrutan */
 .search {
     margin-left: auto;
     margin-right: auto;
@@ -87,6 +89,7 @@ p {
 
 #search input[type="text"]:focus {
     width: 50%;
+    background-color: #527069;
     }
 
 #icon {
